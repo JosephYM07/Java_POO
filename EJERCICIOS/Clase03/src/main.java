@@ -34,7 +34,7 @@ public class main {
                 "Knotfest");
         genero genero5 = new genero(
                 "Grunge",
-                "120bmp",
+                "129bmp",
                 1990,
                 "Estados Unidos",
                 "Pearl Jam",
